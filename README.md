@@ -68,7 +68,7 @@ MDVRP/
 ├── Modelo_Exacto.ipynb
 ├── Enfoque_Exacto_y_Metaheurístico_en_Problemas_de_Ruteo_de_Vehículos_con_Múltiples_Depósitos__MDVRP_.pdf
 ├── Resultados/
-├   ├── Dstos_Solucion
+├   ├── Datos_Solucion
 │   ├── Graficas_Modelo_Exacto/
 │   └── Graficas_Modelo_Metaheuritico/
 └── README.md
