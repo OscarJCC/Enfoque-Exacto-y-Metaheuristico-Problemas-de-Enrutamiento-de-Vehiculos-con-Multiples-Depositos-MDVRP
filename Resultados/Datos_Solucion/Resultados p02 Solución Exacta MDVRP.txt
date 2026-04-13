@@ -1,0 +1,4 @@
+====================
+Instancia: p02
+Tiempo total: 306.1998082 s
+Costo total: 1085.7982610577512

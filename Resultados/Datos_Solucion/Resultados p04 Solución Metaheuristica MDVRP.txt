@@ -1,0 +1,4 @@
+====================
+Instancia: p04
+Tiempo total: 61.8223505 s
+Costo total: 1445.9717676230907

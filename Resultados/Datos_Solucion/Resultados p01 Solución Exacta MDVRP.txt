@@ -1,0 +1,4 @@
+====================
+Instancia: p01
+Tiempo total: 308.7100712 s
+Costo total: 791.3095153353745

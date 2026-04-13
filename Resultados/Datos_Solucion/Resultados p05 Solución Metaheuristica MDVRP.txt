@@ -1,0 +1,4 @@
+====================
+Instancia: p05
+Tiempo total: 62.0446166 s
+Costo total: 1229.9500633180846

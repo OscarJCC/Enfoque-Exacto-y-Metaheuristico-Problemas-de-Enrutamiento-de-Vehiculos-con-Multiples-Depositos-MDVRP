@@ -1,0 +1,4 @@
+====================
+Instancia: p03
+Tiempo total: 85.8605926 s
+Costo total: 688.83292154133

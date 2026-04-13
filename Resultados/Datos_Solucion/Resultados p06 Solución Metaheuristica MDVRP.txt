@@ -1,0 +1,4 @@
+====================
+Instancia: p06
+Tiempo total: 91.6346837 s
+Costo total: 1073.9939344207362
